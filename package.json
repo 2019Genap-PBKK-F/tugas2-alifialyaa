@@ -1,0 +1,22 @@
+{
+  "name": "tugas2-alifialyaa",
+  "version": "1.0.0",
+  "description": "tugas node.js nrp 05111740000011",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2019Genap-PBKK-F/tugas2-alifialyaa.git"
+  },
+  "author": "Alifiannisa Alyahasna Wighneswara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2019Genap-PBKK-F/tugas2-alifialyaa/issues"
+  },
+  "homepage": "https://github.com/2019Genap-PBKK-F/tugas2-alifialyaa#readme",
+  "dependencies": {
+    "mssql": "^6.1.0"
+  }
+}
